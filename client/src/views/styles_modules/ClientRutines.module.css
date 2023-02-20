@@ -1,0 +1,169 @@
+/* RUTINA TABLE */
+
+.container{
+  background-color: #1F1F25;
+  min-height: calc(100vh - 55px);
+}
+
+.containerRutina{
+  display: flex;
+  width: 1000px;
+
+
+}
+
+.container_title{
+  margin: 0 auto;
+  margin-bottom: 30px;
+  width: 1000px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 450px;
+}
+
+.title{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-family: 'Itim', cursive;
+  color: #BF5AF2;
+}
+
+
+
+.container{
+  background-color: #1F1F25;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.data_client{
+  width: 1000px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  color: white;
+  border: 1.5px solid #BF5AF2;
+  border-radius: 5px;
+  padding: 10px 0;
+}
+
+
+
+/* CREAR RUTINA */
+
+.contain_background{
+  background-color: #d9d9d910;
+  border-radius: 6px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.contain_title{
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-family: 'Inter', sans-serif;
+  color: white;
+  font-size: 20px;
+  display: flex;
+
+}
+
+.subtitle{
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+
+}
+
+.btnCerrar{
+  width: 40px;
+  height: 25px;
+  background-color: #5E5CE6;
+  color: white;
+  border:none;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  align-self: center;
+  margin-top: 20px;
+  align-self: flex-end;
+}
+
+.contain_createRutine{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin: 0 auto;
+  width: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+.btn_createRutina{
+  padding: 3px 25px ;
+  background-color: #5E5CE6 ;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  align-self: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  margin-top: 22px;
+}
+
+.btn_ver{
+  border: 1.5px solid #5E5CE6 !important;
+  padding: 3px 25px ;
+  background-color: #d9d9d905;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  align-self: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  height: 28px;
+}
+
+.btn_ver:hover{
+  background-color: #5E5CE6 ;
+  color: white;
+}
+
+.icono_trash{
+  height: 16px;
+  margin-bottom: 10px;
+}
+
+img, svg {
+  vertical-align: none;
+}
+
+.btn_trash{
+  padding: 3px 25px ;
+  background-color: #d9d9d905;
+  color: white;
+  border: 1.5px solid #5E5CE6 ;
+  border-radius: 6px;
+  align-self: center;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  height: 28px;
+}
+
+.btn_trash:hover{
+  background-color: #5E5CE6 ;
+  color: white;
+}

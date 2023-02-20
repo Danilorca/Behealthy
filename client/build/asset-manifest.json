@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.306ebd21.css",
+    "main.js": "/static/js/main.f912986c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/bg_home0.jpg": "/static/media/bg_home0.82414f1474d3362b0420.jpg",
+    "static/media/img_crearEjercicio.png": "/static/media/img_crearEjercicio.82c74d347bd8742d3d81.png",
+    "static/media/img_login.png": "/static/media/img_login.d02c2416068d6c693929.png",
+    "static/media/img_editarPerfil.png": "/static/media/img_editarPerfil.ac25e3593aba3d452bf8.png",
+    "static/media/img_register.png": "/static/media/img_register.d9459c7ed3ff6790a248.png",
+    "static/media/img_dietaUsuario.png": "/static/media/img_dietaUsuario.703114194e953c14f597.png",
+    "static/media/img_evaluacionNutricional.png": "/static/media/img_evaluacionNutricional.2ec8928ca1328db5da1c.png",
+    "static/media/img_crearAdmin.png": "/static/media/img_crearAdmin.b6d138d0c6d9b0567e28.png",
+    "static/media/objetivo-usuario.png": "/static/media/objetivo-usuario.837ddf2fefee6ec71ed3.png",
+    "static/media/img_rutinaUsuario.png": "/static/media/img_rutinaUsuario.b4e9627a3362036ebc53.png",
+    "static/media/LOGO.svg": "/static/media/LOGO.d3d0eab465cb6db7b4938d20b72b16d9.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/transh.svg": "/static/media/transh.47c9043763e07032defa29970c73f9ae.svg",
+    "main.306ebd21.css.map": "/static/css/main.306ebd21.css.map",
+    "main.f912986c.js.map": "/static/js/main.f912986c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.306ebd21.css",
+    "static/js/main.f912986c.js"
+  ]
+}

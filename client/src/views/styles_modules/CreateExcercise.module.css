@@ -1,0 +1,62 @@
+.container{
+  height: calc(100vh - 55px );
+  background-color: #1F1F25;
+
+}
+
+.container_background{
+  max-width: 800px;
+  border-radius: 6px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: #d9d9d910;
+  display: flex;
+  justify-content: center;
+
+}
+
+.container_form{
+  width: 700px;
+  color:white;
+
+}
+.container_title{
+  width: 600px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title{
+
+  margin: 0 auto;
+  margin-top:30px ;
+
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+
+
+.btnCerrar{
+  width: 40px;
+  height: 25px;
+  background-color: #5E5CE6;
+  color: white;
+  border:none;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  align-self: center;
+  margin-top: 20px;
+}
+
+ExcerciseForm{
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}

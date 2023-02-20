@@ -1,0 +1,28 @@
+.container_register{
+  display: flex;
+  max-height: calc(100vh - 55px );
+  background-color: #1F1F25;
+  color:white
+}
+
+.img_register{
+  overflow: hidden;
+  width: 50%;
+}
+
+
+.container_registerForm{
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+
+}
+
+.btn_register{
+  padding: 5px 20px 5px 20px ;
+  background-color: #5E5CE6;
+  color: white;
+  border: none  ;
+  border-radius: 6px;
+  align-self: center;
+}

@@ -1,0 +1,30 @@
+.container_main{
+  height: calc(100vh - 55px );
+  width: 100%;
+  background-image: url(../../assets/bg_home0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 42px;
+  padding-left: 170px;
+}
+
+h1{
+  color: white;
+  font-size: 48px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+.btnRegister{
+  padding: 12px 40px ;
+  background-color: #5E5CE6;
+  color: white;
+  border: 1px solid #5E5CE6 ;
+  border-radius: 12px;
+  width: 258px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
